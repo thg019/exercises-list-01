@@ -72,5 +72,3 @@ elif letra in 'f':
     print("Feminino.")
 else:
     print("Sexo inválido.")
-
-
